@@ -26,6 +26,10 @@ Para esta tarea, me enfoqué en resolver problemas técnicos que surgieron duran
 - **Modularidad:** El código está separado en funciones claras: `inicializar`, `calcular`, `actualizar` e `imprimir`.
 - **Control de Consola:** Apliqué `system("color 0A")` para el color verde neón y la librería `<windows.h>` para usar `Sleep()`, controlando la fluidez de la animación.
 - **Nomenclatura:** Respeté el estándar pedido: `snake_case` para funciones y `camelCase` para variables locales.
+## 📦 Cómo correrlo
 
+1. **Clona el repositorio** o descarga el archivo `juego.cpp`.
+2. **Abre el archivo** en Visual Studio Code o cualquier editor de C++.
+3. **Compila y ejecuta.** > **Nota importante:** El programa está optimizado para **Windows**. Se recomienda usar la terminal del sistema para apreciar correctamente los colores neón y la fluidez de la animación.
 ---
 *Tarea realizada por Leo - Estudiante de Programación I*
